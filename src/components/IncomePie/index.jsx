@@ -18,7 +18,7 @@ const IncomePie = ({qtdLabel1, qtdLabel2, qtdLabel3, qtdLabel4, qtdLabel5}) => {
           },
         ]}
         height={200}
-        width={350}
+        width={400}
       />
  
     );
